@@ -1,0 +1,5 @@
+{
+  "name": "ClassIn to Gradebook Converter",
+  "description": "A specialized tool to convert ClassIn CSV exports into a standardized Gradebook CSV format with customizable date settings.",
+  "requestFramePermissions": []
+}
